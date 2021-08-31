@@ -1,0 +1,21 @@
+.projects__content{
+    max-width:1564px;
+    padding: 32;
+}
+
+.car-item img {
+    display: block;
+    height: auto;
+    width: 70%;
+    cursor: zoom-in;
+}
+.w3-display-container{
+    margin-right: -8rem;
+} 
+
+.w3-col{
+    padding-left: 1.5rem;
+
+}
+
+

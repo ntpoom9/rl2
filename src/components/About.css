@@ -1,0 +1,12 @@
+#peopleimg{
+    display: block;
+    height: 230px;
+    width: auto;
+    cursor: zoom-in;
+    border: solid;
+}
+
+#namepp{
+    font-size: 25px;
+}
+
